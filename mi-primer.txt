@@ -1,0 +1,2 @@
+Se crea el archivo de texto 
+Se procede a realizar una modificación despues de abrir el git bash
